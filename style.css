@@ -16,7 +16,7 @@ html{
 
 #header{
     width: 100%;
-    /* height: vh; */
+    height: vh;
     /* background-image: url(images/IMG_1536.jpg); */
     background-size:cover;
     background-position: center;
