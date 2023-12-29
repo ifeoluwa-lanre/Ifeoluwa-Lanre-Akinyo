@@ -379,6 +379,19 @@ form .CV{
 
 /* ------------------------------Skilss----------------------------------------------------- */
 
+.FullStack{
+    margin-left: 350px;
+    margin-top: 20px;
+    width: 600px;
+    height: auto;
+    /*background: navy;*/
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px #000080;
+}
+
 /* .FullStack img{
     float: left;
 /* } */
